@@ -1,0 +1,14 @@
+.header{
+    background-color: rgb(221, 22, 48);
+    color: rgb(252, 248, 248);
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+  .custom-color{
+    color: rgb(241, 237, 230);
+    font-size: 30px;
+    font-weight: 700;
+  }

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "John Cena",
+        "cost": 10000,
+        "character": "Actor & Wrestler ",
+        "age": 44,
+        "height": "6fit",
+        "img": "https://i.guim.co.uk/img/media/a70fcfe9c132239554a052319d1f46c14d045553/0_69_3164_1898/master/3164.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a0cf36524d843c4c21f8db0a1c912523"
+    },
+    {
+        "name": "The Undertaker",
+        "cost": 7000,
+        "character": "Senior Wrestler",
+        "age": 55,
+        "height": "6.5fit",
+        "img": "https://pbs.twimg.com/profile_images/1070084370696794112/ecpXIUeY.jpg"
+    },
+    {
+        "name": "Triple H",
+        "cost": 8000,
+        "character": "wrestler & Actor",
+        "age": 52,
+        "height": "6fit",
+        "img": "https://pbs.twimg.com/profile_images/1350834593843314690/EnpFvstZ_400x400.jpg"
+    },
+    {
+        "name": "Stephanie McMahon",
+        "cost": 10000,
+        "character": "Chief brand officer of WWE",
+        "age": 45,
+        "height": "5.10 fit",
+        "img": "https://cdn.sescoops.com/wp-content/uploads/2018/10/Stephanie-McMahon-696x392.jpg"
+    },
+    {
+        "name": "Vince McMahon",
+        "cost": 10000,
+        "character": "Chief Executive Officer of WWE",
+        "age": 76,
+        "height": "6fit",
+        "img": "https://nypost.com/wp-content/uploads/sites/2/2020/01/vince-mcmahon.jpg?quality=80&strip=all"
+    },
+    {
+        "name": "Ronda Rousey",
+        "cost": 5000,
+        "character": "Wrestler & Actress",
+        "age": 35,
+        "height": "5.10fit",
+        "img": "https://staticg.sportskeeda.com/editor/2019/09/c4d5d-15688745277332-800.jpg"
+    },
+    {
+        "name": "Becky Lynch",
+        "cost": 5000,
+        "character": "Irish  Wrestler",
+        "age": 36,
+        "height": "6fit",
+        "img": "https://cdn-wp.thesportsrush.com/2021/06/6ef84f8d-real-reason-why-becky-lynch-did-not-return-at-wrestlemania-37.png"
+    },
+    {
+        "name": "Roman Reigns",
+        "cost": 10000,
+        "character": "American  Wrestler ",
+        "age": 36,
+        "height": "5fit",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Roman_Reigns_Tribute_to_the_Troops_2016.jpg/1200px-Roman_Reigns_Tribute_to_the_Troops_2016.jpg"
+    },
+    {
+        "name": "Donald Trump",
+        "cost": 1000,
+        "character": " Commentator ",
+        "age": 75,
+        "height": "5.11fit",
+        "img": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/06/04/940978-trump-3.gif"
+    },
+    {
+        "name": "Brock Lesnar",
+        "cost": 12000,
+        "character": "Director",
+        "age": 45,
+        "height": "6.5fit",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaAh2f9LTgGwuzIRI6F-oiVY5uaoeBajJP5b4BI54W_xpU0YoCKjTBPW2jG85loj9Ueg&usqp=CAU"
+    },
+    {
+        "name": "Jhankar Mahbub",
+        "cost": 11000,
+        "character": "Guest",
+        "age": 35,
+        "height": "5.8fit",
+        "img": "https://images.gr-assets.com/authors/1456905354p8/15050617.jpg"
+    },
+    {
+        "name": "Mehedi Hasan Shihab",
+        "cost": 13000,
+        "character": "Special Guest",
+        "age": 21,
+        "height": "5.7fit",
+        "img": "https://pbs.twimg.com/profile_images/1158039824755904512/uxBzJ9TH_400x400.jpg"
+    }
+]
