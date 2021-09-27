@@ -1,0 +1,33 @@
+.card{
+    background-color: #d4c4d1;
+    color: rgb(52, 10, 235);
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+  }
+  .pictures{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  .selected-btn{
+    border: 0;
+    color: rgb(243, 244, 231);
+    background-color:#ff6347;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius:10px ;
+    font-weight: 400;
+  }
+  
+  .icon{ 
+    display: flex;
+   justify-content: space-evenly;
+  }
+  .card p{
+    font-size: 25px;
+    font-weight: 600;
+  }

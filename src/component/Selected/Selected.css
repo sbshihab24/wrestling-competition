@@ -1,0 +1,10 @@
+.selected{
+    background-color: rgba(42, 56, 167, 0.774);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 50px;
+    color: white;
+  }
+  .orange-color{
+    color:orange ;
+  }
